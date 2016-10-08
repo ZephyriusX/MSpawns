@@ -11,7 +11,7 @@
 
 namespace MSpawns;
 
-use pocketmine\Player;
+
 use pocketmine\Server;
 use pocketmine\command\CommandExecutor;
 use pocketmine\level\Level;
